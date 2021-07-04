@@ -1,0 +1,2 @@
+rootProject.name = "layoutsAss2Problem1"
+include ':app'
